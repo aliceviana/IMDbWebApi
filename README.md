@@ -5,4 +5,4 @@ Built in .NET Core using a SQL Server database.
 
 # Good to know
 
-It is an incomplete system, which only serves for development studies.
+It is an incomplete system, built with the purpose of studying programming.
